@@ -134,7 +134,7 @@ This will start the web app and will direct you to a URL where you can enter mes
 
 ## 4. Conclusion
 
-As we can see the data is highly imbalanced. Though the accuracy metric is [high](#acc) (you will see the exact value after the model is trained by grid search, it is ~0.94), it has a poor value for recall (~0.6). So, take appropriate measures when using this model for decision-making process at a larger scale or in a production environment.
+As we will notice, the model need more enhancements on its accuracy. This will require improving the search logic to give better decision-making process at a larger scale or in a production environment.
 
 <a id='files'></a>
 
