@@ -126,6 +126,10 @@ python run.py
 
 This will start the web app and will direct you to a URL where you can enter messages and get classification results for it.
 
+**_Screenshot 2_**
+
+![master](img/charts.png)
+
 <a id='conclusion'></a>
 
 ## 4. Conclusion
