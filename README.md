@@ -68,7 +68,7 @@ File _models/train_classifier.py_ contains machine learning pipeline that:
 
 <a id='eg'></a>
 
-Running [this command](#com) **from app directory** will start the web app where users can enter their query, i.e., a request message sent during a natural disaster, e.g. _"Please, we need tents and water. We are in Silo, Thank you!"_.
+Running [this command](#com) **from app directory** will start the web app where users can enter their query, i.e., a request message sent during a natural disaster.
 
 **_Screenshot 1_**
 
