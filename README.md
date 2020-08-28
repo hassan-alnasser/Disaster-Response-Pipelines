@@ -1,7 +1,5 @@
 # Data Scientist Nanodegree
 
-## Data Engineering
-
 ## Project: Disaster Response Pipeline
 
 ## Table of Contents
